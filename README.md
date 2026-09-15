@@ -1,89 +1,70 @@
-# Hi, I'm Aprajita 👋
+# Hi, I'm Aprajita
 
-I'm a software engineer and Computer Science graduate from the City College of New York. I build full-stack applications, backend APIs, and AI-powered tools, with experience spanning healthcare research, web platforms, and real-time simulations.
+I'm a software engineer in New York and a recent Computer Science graduate from CCNY. I’ve worked across backend development, database design, full-stack applications, and applied machine learning, including research experience at BioMind AI Lab and Memorial Sloan Kettering Cancer Center.
 
-* 🔭 Currently building a private, multi-tenant Hotel Property Management System
-* 🧩 Interested in backend engineering, full-stack development, and applied AI
-* 🎓 B.S. in Computer Science, CCNY — May 2026
-* 📍 New York, NY
-* 🌐 [Portfolio](https://aprajita-portfolio.aprajita0625.workers.dev/)
-* 💼 [LinkedIn](https://linkedin.com/in/aprajita-srivastava25)
+I’m especially interested in backend problems involving authentication, permissions, API design, and relational data.
 
-## Featured Projects
+[Portfolio](https://aprajita-portfolio.aprajita0625.workers.dev/) · [LinkedIn](https://linkedin.com/in/aprajita-srivastava25)
 
-### 💊 Medication Interaction Checker
+## Currently building
 
-A responsive full-stack application that helps users review potential interactions between mental-health medications. The frontend MVP includes medication entry, duplicate prevention, mock interaction results, and a mobile-friendly interface. A Node.js and Express backend is partially implemented, with live medication data and complete database integration in progress.
+### Hotel Property Management System
 
-**Technologies:** React · TypeScript · Node.js · Express · MongoDB · Vite · Tailwind CSS
-
-[View Repository](https://github.com/aprajita0/Medication-Interaction-Checker)
-
-### 🤖 Mechanix Legions
-
-A real-time multiplayer robotic-soccer simulation built with Unity and C#. Five autonomous agents per team coordinate through role-based behavior, while a custom multithreaded TCP server synchronizes gameplay and supports fault-injection testing.
-
-I worked extensively on the backend architecture, custom TCP networking, server-side game logic, and supporting data design.
-
-**Technologies:** C# · Unity · TCP Networking · NavMesh · AI Agents
-
-**Team Project:** Developed with Jezlea Ortega.
-
-[View Repository](https://github.com/aprajita0/SD-Multiplayer-Robotic-Soccer-Game)
-
-### 📸 MyIdolList
-
-A full-stack platform where K-pop fans can organize photocard collections and participate in community trading, buying, and selling workflows.
-
-I worked extensively on the Node.js backend, API and server-side logic, and MongoDB database design while collaborating with the frontend and product team.
-
-**Technologies:** React · Node.js · MongoDB · AWS S3 · Tailwind CSS
-
-[View Repository](https://github.com/aprajita0/csc473project)
-
-### 🔨 TrustSphere E-Bidding System
-
-A collaborative full-stack auction platform supporting user accounts, listings, bidding workflows, and persistent auction data.
-
-I worked extensively on the Node.js backend, API behavior, server-side application logic, and MongoDB schema and database design.
-
-**Technologies:** Node.js · Express · MongoDB · React
-
-[View Repository](https://github.com/aprajita0/E-bidding_322Project)
-
-### 🫀 CINE DICOM Filtering Pipeline
-
-A Python preprocessing utility that identifies cardiac MRI series through DICOM metadata and organizes matching CINE studies for downstream research and machine-learning workflows.
-
-**Technologies:** Python · pydicom · Medical Imaging · Data Processing
-
-[View Repository](https://github.com/aprajita0/ChD-AI-Project-Code)
-
-## Current Private Project
-
-### 🏨 Hotel Property Management System
-
-I'm building a multi-tenant platform for hotel operations with staff authentication, hotel-scoped role-based access control, room and room-type inventory, guest profiles, and walk-in reservation workflows.
+A multi-tenant platform for managing hotel staff, rooms, guests, and reservations. I’m building hotel-specific authentication, role-based permissions, room inventory, guest profiles, and walk-in booking workflows.
 
 The repository is private because the product is being developed as a startup idea.
 
-**Technologies:** Node.js · Express · Supabase · PostgreSQL · React · Cloudflare
+**Tech:** Node.js · Express · React · Supabase · PostgreSQL · Cloudflare
 
-## Technical Skills
+## Selected work
 
-**Languages:** JavaScript · TypeScript · Python · C++ · C# · PHP
+### [Medication Interaction Checker](https://github.com/aprajita0/Medication-Interaction-Checker)
 
-**Frontend:** React · Tailwind CSS · Vite
+A web application for reviewing potential interactions between mental-health medications. The frontend MVP supports multiple medication entries, duplicate prevention, and interaction results based on mock data. The backend is partially implemented, with live medication data and database integration still in progress.
 
-**Backend:** Node.js · Express · REST APIs · Supabase
+**Tech:** React · TypeScript · Vite · Tailwind CSS · Node.js · Express · MongoDB
 
-**Databases:** PostgreSQL · MongoDB · MySQL
+### [Mechanix Legions](https://github.com/aprajita0/SD-Multiplayer-Robotic-Soccer-Game)
 
-**AI and Data:** TensorFlow · scikit-learn · Data Pipelines · Medical Imaging
+A multiplayer robotic-soccer simulation with five autonomous players per team. I worked on the backend architecture, custom TCP networking, server-side game logic, and data design. The project also includes role-based player behavior and fault-injection testing.
 
-**Tools:** Git · Docker · CI/CD · AWS S3 · Cloudflare
+Built with Jezlea Ortega.
 
-## Let's Connect
+**Tech:** C# · Unity · .NET TCP networking · NavMesh · AI agents
 
-* [Portfolio](https://aprajita-portfolio.aprajita0625.workers.dev/)
-* [LinkedIn](https://linkedin.com/in/aprajita-srivastava25)
+### [MyIdolList](https://github.com/aprajita0/csc473project)
+
+A platform for organizing, trading, buying, and selling K-pop photocards. My work focused on the backend, API logic, and MongoDB database design.
+
+Built as a team project.
+
+**Tech:** React · JavaScript · Node.js · Express · MongoDB · AWS S3 · Tailwind CSS
+
+### [TrustSphere E-Bidding System](https://github.com/aprajita0/E-bidding_322Project)
+
+An online auction platform with user accounts, listings, bids, and persistent auction data. I worked extensively on the backend, including API behavior, server-side logic, and MongoDB schema design.
+
+Built as a team project.
+
+**Tech:** React · JavaScript · Node.js · Express · MongoDB
+
+### [CINE DICOM Filtering Pipeline](https://github.com/aprajita0/ChD-AI-Project-Code)
+
+A Python utility that reads DICOM metadata, identifies cardiac MRI series labeled CINE, and organizes matching files for research and machine-learning workflows.
+
+**Tech:** Python · pydicom · DICOM · Medical imaging
+
+### [Personal Portfolio](https://github.com/aprajita0/aprajita-portfolio)
+
+The portfolio where I keep my experience, projects, and current work. It is deployed through Cloudflare.
+
+**Tech:** React · TypeScript · Vite · Tailwind CSS · Cloudflare Workers
+
+## Skills
+
+**Languages:** JavaScript, TypeScript, Python, C++, C#, PHP
+**Backend:** Node.js, Express, REST APIs, Supabase
+**Frontend:** React, Vite, Tailwind CSS
+**Databases:** PostgreSQL, MongoDB, MySQL
+**ML and data:** TensorFlow, scikit-learn, data pipelines, medical imaging
+**Tools:** Git, Docker, CI/CD, AWS S3, Cloudflare
